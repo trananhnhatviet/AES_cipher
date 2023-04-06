@@ -253,7 +253,7 @@ def Rcon(i):
 -   Trước hết, quá trình mở rộng khóa diễn ra, sử dụng khóa bí mật 128 bit do người dùng cung cấp. Sau đó, đối với bất kỳ khối dữ liệu văn bản gốc 128 bit đã cho nào, phép biến đổi sau đây được áp dụng:
 
 -   Addition of the first round key
-    -   9 Rounds:
+    9 Rounds:
     -   Substitute Bytes
     -   Shift Rows
     -   Mix Columns
